@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/bucket"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "STEEL_THRUSTER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/technical_components/steel_thruster"
+		}
+	]	
+}

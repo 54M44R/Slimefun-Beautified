@@ -1,0 +1,39 @@
+{
+    "parent": "minecraft:block/light_gray_stained_glass",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "block/light_gray_stained_glass"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "HARDENED_GLASS"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/technical_components/hardened_glass"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "HEATED_PRESSURE_CHAMBER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/heated_pressure_chamber"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "HEATED_PRESSURE_CHAMBER_2"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/heated_pressure_chamber2"
+		}
+	]	
+}

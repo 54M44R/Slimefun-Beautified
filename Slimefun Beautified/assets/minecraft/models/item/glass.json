@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:block/glass",
+	"author": "RaulH22",
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "PRESSURE_CHAMBER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/pressure_chamber"
+		}
+	]	
+}

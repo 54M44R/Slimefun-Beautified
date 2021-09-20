@@ -1,0 +1,69 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MAGICAL_BOOK_COVER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_items/magical_book_cover"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "REINFORCED_CLOTH"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/technical_components/reinforced_cloth"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "PLASTIC_SHEET"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/technical_components/plastic_sheet"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "STEEL_PLATE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/miscellaneous/steel_plate"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "CLOTH"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/miscellaneous/cloth"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "REINFORCED_PLATE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/miscellaneous/reinforced_plate"
+		}
+	]	
+}

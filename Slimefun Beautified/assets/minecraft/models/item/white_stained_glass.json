@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:block/white_stained_glass",
+	"author": "RaulH22",
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "RAINBOW_GLASS"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_gadgets/rainbow_glass"
+		}
+	]	
+}

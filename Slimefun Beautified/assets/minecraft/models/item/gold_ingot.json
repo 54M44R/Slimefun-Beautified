@@ -1,0 +1,199 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/gold_ingot"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "BRASS_INGOT"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/ingots/brass_ingot"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ALUMINUM_BRASS_INGOT"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/ingots/aluminum_brass_ingot"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ALUMINUM_BRONZE_INGOT"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/ingots/aluminum_bronze_ingot"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "CORINTHIAN_BRONZE_INGOT"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/ingots/corinthian_bronze_ingot"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_4K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_4"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_6K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_6"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_8K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_8"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_10K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_10"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_12K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_12"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_14K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_14"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_16K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_16"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_18K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_18"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_20K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_20"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_22K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_22"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_24K"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/gold_ingots/gold_ingot_24"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GILDED_IRON"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/ingots/gilded_iron"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "BLISTERING_INGOT"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/radioactive_materials/blistering_ingot_33"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "BLISTERING_INGOT_2"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/radioactive_materials/blistering_ingot_66"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "BLISTERING_INGOT_3"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/radioactive_materials/blistering_ingot_100"
+		}
+	]	
+}

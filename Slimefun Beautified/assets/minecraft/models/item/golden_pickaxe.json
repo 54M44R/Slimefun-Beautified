@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/golden_pickaxe"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "INDUSTRIAL_MINER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/industrial_miner"
+		}
+	]	
+}

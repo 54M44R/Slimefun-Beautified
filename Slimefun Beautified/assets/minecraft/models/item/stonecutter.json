@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:block/stonecutter",
+	"author": "RaulH22",
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "TABLE_SAW"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/table_saw"
+		}
+	]	
+}

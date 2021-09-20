@@ -1,0 +1,29 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "minecraft:block/lime_stained_glass"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "_UI_PREVIOUS_ACTIVE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/gui/previous_active"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "_UI_NEXT_ACTIVE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/gui/next_active"
+		}
+	]	
+}

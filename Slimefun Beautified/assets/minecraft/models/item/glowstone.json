@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/glowstone",
+	
+	"overrides": [
+		{"predicate": {
+		"custom_model_data": 6969}, 
+		"model": "item/54m44r/fluffy_machines/power"}
+	]	
+}

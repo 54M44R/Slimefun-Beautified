@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:block/white_terracotta",
+	"author": "RaulH22",
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "RAINBOW_CLAY"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_gadgets/rainbow_clay"
+		}
+	]	
+}

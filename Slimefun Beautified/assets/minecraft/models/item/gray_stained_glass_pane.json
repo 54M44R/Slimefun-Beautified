@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "minecraft:block/gray_stained_glass"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "_UI_BACKGROUND"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/gui/background"
+		},
+		
+		{"predicate": {
+		"custom_model_data": 6969}, 
+		"model": "item/raulh22/slimefun/gui/background"}
+	]	
+}

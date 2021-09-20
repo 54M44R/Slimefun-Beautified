@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/cooked_rabbit"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "RABBIT_JERKY"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/rabbit_jerky"
+		}
+	]	
+}

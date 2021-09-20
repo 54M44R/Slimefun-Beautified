@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_hoe"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "CROOK"
+			}
+			}
+		},
+		"model": "item/hauntedcorpse/exotic_garden/miscellaneous/crook"
+		}
+	]	
+}

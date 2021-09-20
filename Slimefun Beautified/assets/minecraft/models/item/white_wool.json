@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:block/white_wool",
+	"author": "RaulH22",
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "RAINBOW_WOOL"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_gadgets/rainbow_wool"
+		}
+	]	
+}

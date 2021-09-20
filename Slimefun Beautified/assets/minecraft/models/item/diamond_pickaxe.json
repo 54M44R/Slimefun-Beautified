@@ -1,0 +1,59 @@
+{
+    "parent": "item/handheld",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/diamond_pickaxe"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ADVANCED_INDUSTRIAL_MINER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/advanced_industrial_miner"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "EXPLOSIVE_PICKAXE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/tools/explosive_pickaxe"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "PICKAXE_OF_THE_SEEKER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/tools/seeker_pickaxe"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "PICKAXE_OF_VEIN_MINING"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/tools/vein_pickaxe"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "SMELTERS_PICKAXE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/tools/smelter_pickaxe"
+		}
+	]	
+}

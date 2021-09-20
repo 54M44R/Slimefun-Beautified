@@ -1,0 +1,80 @@
+{
+    "parent": "item/generated",
+	"author": "RaulH22",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MEDICINE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/items/medicine"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "APPLE_JUICE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/apple_juice"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "CARROT_JUICE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/carrot_juice"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MELON_JUICE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/melon_juice"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "PUMPKIN_JUICE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/pumpkin_juice"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "SWEET_BERRY_JUICE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/sweet_berry_juice"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLDEN_APPLE_JUICE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/golden_apple_juice"
+		}
+	]	
+}

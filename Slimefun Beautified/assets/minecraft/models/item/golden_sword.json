@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/golden_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "BLADE_OF_VAMPIRES"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/weapons/blade_of_vampires"
+		}
+	]	
+}

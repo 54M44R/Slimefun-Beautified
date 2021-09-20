@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:item/redstone_torch",
+	"author": "RaulH22",
+
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GPS_MARKER_TOOL"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/gps/gps_marker"
+		}
+	]	
+}

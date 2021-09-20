@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "block/powered_rail"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ADVANCED_CIRCUIT_BOARD"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/technical_components/advanced_board"
+		}
+	]	
+}

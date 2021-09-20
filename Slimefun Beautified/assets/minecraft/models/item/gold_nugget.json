@@ -1,0 +1,69 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/gold_nugget"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MAGIC_LUMP_1"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_items/magical_lump"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MAGIC_LUMP_2"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_items/magical_lump2"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MAGIC_LUMP_3"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_items/magical_lump3"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENDER_LUMP_1"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_items/ender_lump"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENDER_LUMP_2"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_items/ender_lump2"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENDER_LUMP_3"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/magical_items/ender_lump3"
+		}
+	]	
+}

@@ -1,0 +1,39 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/brick"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "BRONZE_INGOT"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/ingots/bronze_ingot"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "COPPER_INGOT"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/ingots/copper_ingot"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "REDSTONE_ALLOY"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/ingots/redstone_alloy_ingot"
+		}
+	]	
+}

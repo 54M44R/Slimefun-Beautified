@@ -1,0 +1,109 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/sugar"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "TIN_DUST"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/dusts/tin_dust"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "SILVER_DUST"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/dusts/silver_dust"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ALUMINUM_DUST"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/dusts/aluminum_dust"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ZINC_DUST"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/dusts/zinc_dust"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MAGNESIUM_DUST"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/dusts/magnesium_dust"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MAGNESIUM_SALT"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/valuables/magnesium_salt"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MAGIC_SUGAR"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/magic_sugar"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "WHEAT_FLOUR"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/miscellaneous/wheat_flour"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "SALT"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/miscellaneous/salt"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "CORNMEAL"
+			}
+			}
+		},
+		"model": "item/hauntedcorpse/exotic_garden/miscellaneous/cornmeal"
+		}
+	]	
+}

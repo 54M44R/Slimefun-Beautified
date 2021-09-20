@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:block/iron_block",
+	"author": "RaulH22",
+
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GPS_TELEPORTATION_MATRIX"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/gps/teleporter_matrix"
+		}
+	]	
+}

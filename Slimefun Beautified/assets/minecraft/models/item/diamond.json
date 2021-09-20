@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/diamond"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "SYNTHETIC_DIAMOND"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/valuables/synthetic_diamond"
+		}
+	]	
+}

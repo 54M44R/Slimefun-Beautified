@@ -1,0 +1,235 @@
+{
+	"parent": "minecraft:block/furnace",
+	"author": "RaulH22",
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "SMELTERY"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/smeltery"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_1"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_2"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_2"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_3"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_3"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_4"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_4"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_5"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_5"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_6"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_6"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_7"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_7"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_8"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_8"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_9"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_9"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_10"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_10"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ENHANCED_FURNACE_11"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/enhanced_furnace_11"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "REINFORCED_FURNACE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/reinforced_furnace"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "CARBONADO_EDGED_FURNACE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/basic_machines/carbonado_edged_furnace"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ELECTRIC_FURNACE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/electric_furnace"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ELECTRIC_FURNACE_2"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/electric_furnace2"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ELECTRIC_FURNACE_3"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/electric_furnace3"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ELECTRIC_ORE_GRINDER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/electric_ore_grinder"
+		},
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ELECTRIC_ORE_GRINDER_2"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/electric_ore_grinder2"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ELECTRIC_ORE_GRINDER_3"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/electric_ore_grinder3"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ELECTRIC_INGOT_PULVERIZER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/electric_ingot_pulverizer"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ELECTRIC_SMELTERY"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/electric_smeltery"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "ELECTRIC_SMELTERY_2"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/energy/electric_smeltery2"
+		}
+	]	
+}

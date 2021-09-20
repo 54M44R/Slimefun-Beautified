@@ -1,0 +1,19 @@
+{
+    "parent": "item/handheld",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/netherite_pickaxe"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "EXPLOSIVE_PICKAXE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/tools/netherite_explosive_pickaxe"
+		}
+	]	
+}

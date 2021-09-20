@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/clock_00"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "MULTIMETER"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/technical_gadgets/multimeter"
+		}
+	]	
+}

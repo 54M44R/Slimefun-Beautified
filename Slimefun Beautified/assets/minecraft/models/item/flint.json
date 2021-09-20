@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/flint"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "HOOK"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/miscellaneous/hook"
+		}
+	]	
+}

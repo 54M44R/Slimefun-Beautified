@@ -1,0 +1,39 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/glowstone_dust"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "GOLD_DUST"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/dusts/gold_dust"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "COPPER_DUST"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/dusts/copper_dust"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "SULFATE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/resources/valuables/sulfate"
+		}
+	]	
+}

@@ -1,0 +1,39 @@
+{
+	"parent": "item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "item/cookie"
+	},
+	
+	"overrides": [
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "FORTUNE_COOKIE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/fortune_cookie"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "DIET_COOKIE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/diet_cookie"
+		},
+		
+		{"predicate": {
+		"nbt": {
+			"PublicBukkitValues": {
+			"slimefun:slimefun_item": "KELP_COOKIE"
+			}
+			}
+		},
+		"model": "item/raulh22/slimefun/food/kelp_cookie"
+		}
+	]	
+}
