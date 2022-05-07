@@ -1,8 +1,8 @@
 {
     "parent": "item/handheld",
-	"author": "RaulH22",
+    "author": "54M44R",
     "textures": {
-        "layer0": "items/gui/background"
+        "layer0": "items/gui/networks/west_off"
     },
 	"display": {
 		"gui": {
