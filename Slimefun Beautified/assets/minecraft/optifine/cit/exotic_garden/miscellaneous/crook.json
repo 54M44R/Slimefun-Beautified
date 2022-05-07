@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",	
+	"author": "hauntedcorpse",
+    "textures": {
+        "layer0": "items/exotic_garden/miscellaneous/crook"
+    }
+}
