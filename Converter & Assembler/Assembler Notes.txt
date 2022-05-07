@@ -1,0 +1,6 @@
+This tool assembles the resourcepack into a usable .zip format.
+
+Potential issues as to why the assembler is not functioning:
+
+- 7-Zip is not installed on the system
+- 7-Zip is not present in the Path Enviornment Variable

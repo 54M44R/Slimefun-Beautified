@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+	"author": "54M44R",
+    "textures": {
+        "layer0": "items/gui/cargo/dark_channel_14"
+    },
+	"display": {
+		"gui": {
+			"scale":  [ 1.11, 1.11, 1.11 ]
+        }
+	}
+}

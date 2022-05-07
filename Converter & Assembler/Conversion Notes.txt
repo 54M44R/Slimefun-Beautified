@@ -1,0 +1,5 @@
+The tool's purpose is to convert the GUI elements into either the vanilla or vanillatweaks tone.
+The tool is meant to be paired with a symlink and is used when changing assets of the pack, as well as testing.
+
+
+Manual Conversion: Copy the gui folder within the Dark or Light folder into assets\minecraft\optifine\cit\
