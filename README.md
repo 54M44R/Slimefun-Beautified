@@ -1,3 +1,5 @@
+I am just updating this pack with some new textures and support for more addons, anything below here is from the original update by 54M44R
+
 # :sparkles: Slimefun-Beautified :sparkles:
 __A (WIP) Resourcepack for Slimefun based on RaulH22's and HauntedCorpse's textures.__
 
