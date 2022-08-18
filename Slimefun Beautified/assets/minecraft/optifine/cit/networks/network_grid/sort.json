@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+	"author": "RaulH22",
+    "textures": {
+        "layer0": "items/networks/network_grid/sort"
+    },
+	"display": {
+		"gui": {
+			"scale":  [ 1.11, 1.11, 1.11 ]
+        }
+	}
+}
