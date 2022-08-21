@@ -2,8 +2,8 @@
 I am just updating this pack with some new textures and support for more addons, anything below here is from the original update by 54M44R
 
 Credits:
-54M44R for orignial [Slimefun-Beautified](https://github.com/54M44R/Slimefun-Beautified) 
-GregoriusT for [Gregtech6](https://github.com/GregTech6/gregtech6) as some of my textures are modified GT6 textures
+- 54M44R for orignial [Slimefun-Beautified](https://github.com/54M44R/Slimefun-Beautified) 
+- GregoriusT for [Gregtech6](https://github.com/GregTech6/gregtech6) as some of my textures are modified GT6 textures
 
 # Orignial Readme
 :sparkles: Slimefun-Beautified :sparkles:
