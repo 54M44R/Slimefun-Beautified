@@ -1,4 +1,4 @@
-# New Information for my Branch
+# New Information for my fork
 I am just updating this pack with some new textures and support for more addons, anything below here is from the original update by 54M44R
 
 Credits:
