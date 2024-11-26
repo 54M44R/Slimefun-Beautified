@@ -1,7 +1,7 @@
 # :sparkles: Slimefun-Beautified :sparkles:
 __A (WIP) Resourcepack for Slimefun based on RaulH22's and HauntedCorpse's textures.__
 
-This resourcepack is designed around the Optifine / MCPatcher CIT
+This resourcepack is designed around the Optifine / MCPatcher CIT format
 
 # :rainbow: Features 
 - Works without the need of item-models.yml
