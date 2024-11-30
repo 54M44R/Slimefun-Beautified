@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/magical_plants/essence_tin"
+        "layer0": "item/exotic_garden/magical_plants/essence_tin"
     },
 	"display": {
 		"thirdperson_righthand": {

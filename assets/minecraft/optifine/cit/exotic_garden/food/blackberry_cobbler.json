@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/blackberry_cobbler"
+        "layer0": "item/exotic_garden/food/blackberry_cobbler"
     },
 	"display": {
 		"thirdperson_righthand": {

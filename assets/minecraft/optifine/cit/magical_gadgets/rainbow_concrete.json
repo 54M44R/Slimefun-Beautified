@@ -2,8 +2,8 @@
     "parent": "minecraft:block/obsidian",
 	"author": "RaulH22",
     "textures": {
-        "particle": "items/magical_gadgets/rainbow_concrete",
-        "texture": "items/magical_gadgets/rainbow_concrete"
+        "particle": "item/magical_gadgets/rainbow_concrete",
+        "texture": "item/magical_gadgets/rainbow_concrete"
     },
 	"elements": [
 		{

@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/gps/nether_drill"
+        "layer0": "item/gps/nether_drill"
     },
 	"display": {
 		"thirdperson_righthand": {

@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/gps/elevator_plate"
+        "layer0": "item/gps/elevator_plate"
     },
 	"display": {
 		"thirdperson_righthand": {

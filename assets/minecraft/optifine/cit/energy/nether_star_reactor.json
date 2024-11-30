@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/energy/nether_star_reactor"
+        "layer0": "item/energy/nether_star_reactor"
     },
 	"display": {
 		"thirdperson_righthand": {

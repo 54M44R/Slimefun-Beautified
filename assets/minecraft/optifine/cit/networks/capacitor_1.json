@@ -4,8 +4,8 @@
 	"author": "54M44R",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "items/networks/capacitor_1",
-		"particle": "items/networks/capacitor_1"
+		"0": "item/networks/capacitor_1",
+		"particle": "item/networks/capacitor_1"
 	},
 	"elements": [
 		{

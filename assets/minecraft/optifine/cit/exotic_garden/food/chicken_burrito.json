@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/chicken_burrito"
+        "layer0": "item/exotic_garden/food/chicken_burrito"
     },
 	"display": {
 		"thirdperson_righthand": {

@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/dusts/iron_dust.png"
+        "layer0": "item/resources/dusts/iron_dust.png"
     },
 	"display": {
 		"thirdperson_righthand": {

@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/basic_machines/grind_stone"
+        "layer0": "item/basic_machines/grind_stone"
     },
 	"display": {
 		"thirdperson_righthand": {

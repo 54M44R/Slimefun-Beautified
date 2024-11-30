@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/android/woodcutter"
+        "layer0": "item/android/woodcutter"
     },
 	"display": {
 		"thirdperson_righthand": {

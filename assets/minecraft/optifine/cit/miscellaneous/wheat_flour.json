@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/miscellaneous/wheat_flour"
+        "layer0": "item/miscellaneous/wheat_flour"
     },
 	"display": {
 		"thirdperson_righthand": {

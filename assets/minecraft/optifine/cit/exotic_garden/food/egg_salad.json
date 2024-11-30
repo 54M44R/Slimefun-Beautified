@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/egg_salad"
+        "layer0": "item/exotic_garden/food/egg_salad"
     },
 	"display": {
 		"thirdperson_righthand": {

@@ -2,8 +2,8 @@
     "parent": "minecraft:block/obsidian",
 	"author": "RaulH22",
     "textures": {
-        "particle": "items/gps/teleporter_matrix",
-        "texture": "items/gps/teleporter_matrix"
+        "particle": "item/gps/teleporter_matrix",
+        "texture": "item/gps/teleporter_matrix"
     },
 	"elements": [
 		{

@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/technical_components/steel_thruster"
+        "layer0": "item/technical_components/steel_thruster"
     },
 	"display": {
 		"thirdperson_righthand": {

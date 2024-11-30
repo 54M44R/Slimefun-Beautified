@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/energy/lava_generator2"
+        "layer0": "item/energy/lava_generator2"
     },
 	"display": {
 		"thirdperson_righthand": {

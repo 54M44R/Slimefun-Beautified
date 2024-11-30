@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/basic_machines/industrial_miner"
+        "layer0": "item/basic_machines/industrial_miner"
     },
 	"display": {
 		"thirdperson_righthand": {

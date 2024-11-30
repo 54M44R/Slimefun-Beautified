@@ -2,6 +2,6 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/tools/lumber_axe"
+        "layer0": "item/tools/lumber_axe"
     }
 }

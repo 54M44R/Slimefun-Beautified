@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/plants_and_fruits/strawberry_bush"
+        "layer0": "item/exotic_garden/plants_and_fruits/strawberry_bush"
     },
 	"display": {
 		"thirdperson_righthand": {

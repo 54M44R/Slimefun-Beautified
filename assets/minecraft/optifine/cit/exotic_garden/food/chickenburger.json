@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/chickenburger"
+        "layer0": "item/exotic_garden/food/chickenburger"
     },
 	"display": {
 		"thirdperson_righthand": {

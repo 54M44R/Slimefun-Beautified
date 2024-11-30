@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/magical_items/lava_crystal"
+        "layer0": "item/magical_items/lava_crystal"
     },
 	"display": {
 		"thirdperson_righthand": {

@@ -1,8 +1,8 @@
 {
 	"__comment": "By: RaulH22",
 	"textures": {
-		"particle": "items/magical_items/necrotic_skull",
-		"texture": "items/magical_items/necrotic_skull"
+		"particle": "item/magical_items/necrotic_skull",
+		"texture": "item/magical_items/necrotic_skull"
 	},
 	"elements": [
 		{

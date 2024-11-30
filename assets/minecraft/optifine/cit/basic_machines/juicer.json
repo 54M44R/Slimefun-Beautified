@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/basic_machines/juicer"
+        "layer0": "item/basic_machines/juicer"
     },
 	"display": {
 		"thirdperson_righthand": {

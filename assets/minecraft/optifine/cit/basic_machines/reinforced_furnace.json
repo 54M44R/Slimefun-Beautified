@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/basic_machines/reinforced_furnace"
+        "layer0": "item/basic_machines/reinforced_furnace"
     },
 	"display": {
 		"thirdperson_righthand": {

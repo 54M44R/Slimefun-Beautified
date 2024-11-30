@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/cheeseburger"
+        "layer0": "item/exotic_garden/food/cheeseburger"
     },
 	"display": {
 		"thirdperson_righthand": {

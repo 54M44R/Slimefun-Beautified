@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/valuables/compressed_carbon"
+        "layer0": "item/resources/valuables/compressed_carbon"
     },
 	"display": {
 		"thirdperson_righthand": {

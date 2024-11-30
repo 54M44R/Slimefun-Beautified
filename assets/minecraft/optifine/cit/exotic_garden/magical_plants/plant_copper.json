@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/magical_plants/plant_copper"
+        "layer0": "item/exotic_garden/magical_plants/plant_copper"
     },
 	"display": {
 		"thirdperson_righthand": {

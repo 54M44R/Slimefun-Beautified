@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/useful_items/rag"
+        "layer0": "item/useful_items/rag"
     },
 	"display": {
 		"thirdperson_righthand": {

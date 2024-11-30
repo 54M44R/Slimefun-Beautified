@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/radioactive_materials/neptunium"
+        "layer0": "item/resources/radioactive_materials/neptunium"
     },
 	"display": {
 		"thirdperson_righthand": {

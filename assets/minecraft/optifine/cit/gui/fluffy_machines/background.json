@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/gui/pane_gray"
+        "layer0": "item/gui/pane_gray"
     },
 	"display": {
 		"gui": {

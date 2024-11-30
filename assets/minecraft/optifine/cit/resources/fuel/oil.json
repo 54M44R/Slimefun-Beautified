@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/fuel/oil"
+        "layer0": "item/resources/fuel/oil"
     },
 	"display": {
 		"thirdperson_righthand": {

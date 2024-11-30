@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/energy/electric_ingot_pulverizer"
+        "layer0": "item/energy/electric_ingot_pulverizer"
     },
 	"display": {
 		"thirdperson_righthand": {

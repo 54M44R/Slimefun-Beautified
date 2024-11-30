@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/gps/gps_activation_device_shared"
+        "layer0": "item/gps/gps_activation_device_shared"
     },
 	"display": {
 		"thirdperson_righthand": {

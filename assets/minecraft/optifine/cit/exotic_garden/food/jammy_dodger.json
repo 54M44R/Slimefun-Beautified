@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/jammy_dodger"
+        "layer0": "item/exotic_garden/food/jammy_dodger"
     },
 	"display": {
 		"thirdperson_righthand": {

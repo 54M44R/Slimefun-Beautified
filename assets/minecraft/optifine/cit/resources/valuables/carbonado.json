@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/valuables/carbonado"
+        "layer0": "item/resources/valuables/carbonado"
     },
 	"display": {
 		"thirdperson_righthand": {

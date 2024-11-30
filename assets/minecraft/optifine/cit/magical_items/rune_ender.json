@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/magical_items/rune_ender"
+        "layer0": "item/magical_items/rune_ender"
     },
 	"display": {
 		"thirdperson_righthand": {

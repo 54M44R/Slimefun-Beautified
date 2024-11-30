@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/valuables/magnesium_salt"
+        "layer0": "item/resources/valuables/magnesium_salt"
     },
 	"display": {
 		"thirdperson_righthand": {

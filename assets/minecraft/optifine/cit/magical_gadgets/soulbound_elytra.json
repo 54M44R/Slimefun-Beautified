@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/magical_gadgets/elytra/soulbound_elytra"
+        "layer0": "item/magical_gadgets/elytra/soulbound_elytra"
     },
 	"display": {
 		"thirdperson_righthand": {

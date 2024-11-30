@@ -2,8 +2,8 @@
     "parent": "minecraft:block/obsidian",
 	"author": "RaulH22",
     "textures": {
-        "particle": "items/gps/teleporter_pylon",
-        "texture": "items/gps/teleporter_pylon"
+        "particle": "item/gps/teleporter_pylon",
+        "texture": "item/gps/teleporter_pylon"
     },
 	"elements": [
 		{

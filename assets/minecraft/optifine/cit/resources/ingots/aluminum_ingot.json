@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/ingots/aluminum_ingot"
+        "layer0": "item/resources/ingots/aluminum_ingot"
     },
 	"display": {
 		"thirdperson_righthand": {

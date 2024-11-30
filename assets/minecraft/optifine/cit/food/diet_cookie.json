@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/food/diet_cookie"
+        "layer0": "item/food/diet_cookie"
     },
 	"display": {
 		"thirdperson_righthand": {

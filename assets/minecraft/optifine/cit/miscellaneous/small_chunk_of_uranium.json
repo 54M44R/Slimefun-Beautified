@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/miscellaneous/small_chunk_of_uranium"
+        "layer0": "item/miscellaneous/small_chunk_of_uranium"
     },
 	"display": {
 		"thirdperson_righthand": {

@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/weapons/icy_bow/icy_bow_pulling_1"
+        "layer0": "item/weapons/icy_bow/icy_bow_pulling_1"
     },
     "display": {
         "thirdperson_righthand": {

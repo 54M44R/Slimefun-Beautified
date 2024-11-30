@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/miscellaneous/pulverized_ore"
+        "layer0": "item/miscellaneous/pulverized_ore"
     },
 	"display": {
 		"thirdperson_righthand": {

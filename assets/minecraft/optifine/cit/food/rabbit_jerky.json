@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/food/rabbit_jerky"
+        "layer0": "item/food/rabbit_jerky"
     },
 	"display": {
 		"thirdperson_righthand": {

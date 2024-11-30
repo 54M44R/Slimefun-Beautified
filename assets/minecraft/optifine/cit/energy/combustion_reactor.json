@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/energy/combustion_reactor"
+        "layer0": "item/energy/combustion_reactor"
     },
 	"display": {
 		"thirdperson_righthand": {

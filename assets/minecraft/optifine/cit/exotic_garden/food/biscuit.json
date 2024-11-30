@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/biscuit"
+        "layer0": "item/exotic_garden/food/biscuit"
     },
 	"display": {
 		"thirdperson_righthand": {

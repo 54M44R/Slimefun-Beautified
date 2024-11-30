@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/useful_items/portable_crafting_table"
+        "layer0": "item/useful_items/portable_crafting_table"
     },
 	"display": {
 		"thirdperson_righthand": {

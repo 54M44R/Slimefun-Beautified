@@ -3,8 +3,8 @@
 	"parent": "block/block",
 	"author": "54M44R",
 	"textures": {
-		"0": "items/networks/network_purger",
-		"particle": "items/networks/network_purger"
+		"0": "item/networks/network_purger",
+		"particle": "item/networks/network_purger"
 	},
 	"elements": [
 		{

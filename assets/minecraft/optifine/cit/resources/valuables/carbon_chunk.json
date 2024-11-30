@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/valuables/carbon_chunk"
+        "layer0": "item/resources/valuables/carbon_chunk"
     },
 	"display": {
 		"thirdperson_righthand": {

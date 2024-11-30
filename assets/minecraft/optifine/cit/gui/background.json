@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/gui/background"
+        "layer0": "item/gui/background"
     },
 	"display": {
 		"gui": {

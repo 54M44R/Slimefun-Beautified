@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/magical_gadgets/rainbow_glass_pane"
+        "layer0": "item/magical_gadgets/rainbow_glass_pane"
     },
 	"display": {
 		"thirdperson_righthand": {

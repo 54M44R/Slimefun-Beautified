@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/tiramisu_with_blackberries"
+        "layer0": "item/exotic_garden/food/tiramisu_with_blackberries"
     },
 	"display": {
 		"thirdperson_righthand": {

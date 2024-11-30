@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/basic_machines/table_saw"
+        "layer0": "item/basic_machines/table_saw"
     },
 	"display": {
 		"thirdperson_righthand": {

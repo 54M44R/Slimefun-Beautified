@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/miscellaneous/stone_chunk"
+        "layer0": "item/miscellaneous/stone_chunk"
     },
 	"display": {
 		"thirdperson_righthand": {

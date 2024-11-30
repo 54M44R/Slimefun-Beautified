@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/valuables/synthetic_diamond"
+        "layer0": "item/resources/valuables/synthetic_diamond"
     },
 	"display": {
 		"thirdperson_righthand": {

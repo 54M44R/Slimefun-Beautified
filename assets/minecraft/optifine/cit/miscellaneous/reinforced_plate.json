@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/miscellaneous/reinforced_plate"
+        "layer0": "item/miscellaneous/reinforced_plate"
     },
 	"display": {
 		"thirdperson_righthand": {

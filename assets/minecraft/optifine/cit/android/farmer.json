@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/android/farmer"
+        "layer0": "item/android/farmer"
     },
 	"display": {
 		"thirdperson_righthand": {

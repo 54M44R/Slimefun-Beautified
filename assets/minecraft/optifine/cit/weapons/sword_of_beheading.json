@@ -2,6 +2,6 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/weapons/sword_of_beheading"
+        "layer0": "item/weapons/sword_of_beheading"
     }
 }

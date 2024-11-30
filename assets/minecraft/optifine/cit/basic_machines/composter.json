@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/basic_machines/composter"
+        "layer0": "item/basic_machines/composter"
     },
 	"display": {
 		"thirdperson_righthand": {

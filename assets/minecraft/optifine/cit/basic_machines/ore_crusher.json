@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/basic_machines/ore_crusher"
+        "layer0": "item/basic_machines/ore_crusher"
     },
 	"display": {
 		"thirdperson_righthand": {

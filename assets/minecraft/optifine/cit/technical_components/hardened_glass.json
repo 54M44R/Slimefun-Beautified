@@ -2,8 +2,8 @@
     "parent": "minecraft:block/glass",
 	"author": "RaulH22",
     "textures": {
-        "particle": "items/technical_components/hardened_glass",
-        "texture": "items/technical_components/hardened_glass"
+        "particle": "item/technical_components/hardened_glass",
+        "texture": "item/technical_components/hardened_glass"
     },
 	"elements": [
 		{

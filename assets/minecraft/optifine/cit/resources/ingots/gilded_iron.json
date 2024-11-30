@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/ingots/gilded_iron"
+        "layer0": "item/resources/ingots/gilded_iron"
     },
 	"display": {
 		"thirdperson_righthand": {

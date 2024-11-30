@@ -3,8 +3,8 @@
 	"parent": "block/block",
 	"author": "54M44R",
 	"textures": {
-		"0": "items/networks/network_grabber",
-		"particle": "items/networks/network_grabber"
+		"0": "item/networks/network_grabber",
+		"particle": "item/networks/network_grabber"
 	},
 	"elements": [
 		{

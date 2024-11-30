@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/energy/charging_bench"
+        "layer0": "item/energy/charging_bench"
     },
 	"display": {
 		"thirdperson_righthand": {

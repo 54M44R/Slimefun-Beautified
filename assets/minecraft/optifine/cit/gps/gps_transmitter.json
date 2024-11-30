@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/gps/gps_transmitter"
+        "layer0": "item/gps/gps_transmitter"
     },
 	"display": {
 		"thirdperson_righthand": {

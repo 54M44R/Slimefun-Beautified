@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/talisman2/warrior"
+        "layer0": "item/talisman2/warrior"
     },
 	"display": {
 		"thirdperson_righthand": {

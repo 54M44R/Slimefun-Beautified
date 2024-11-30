@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/salty_popcorn"
+        "layer0": "item/exotic_garden/food/salty_popcorn"
     },
 	"display": {
 		"thirdperson_righthand": {

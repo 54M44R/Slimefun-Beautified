@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/miscellaneous/country_gravy"
+        "layer0": "item/exotic_garden/miscellaneous/country_gravy"
     },
 	"display": {
 		"thirdperson_righthand": {

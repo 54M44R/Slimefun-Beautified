@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "54M44R",
     "textures": {
-        "layer0": "items/resources/ingots/reinforced_alloy"
+        "layer0": "item/resources/ingots/reinforced_alloy"
     },
 	"display": {
 		"thirdperson_righthand": {

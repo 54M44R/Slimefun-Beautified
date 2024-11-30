@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/gps/geo_miner"
+        "layer0": "item/gps/geo_miner"
     },
 	"display": {
 		"thirdperson_righthand": {

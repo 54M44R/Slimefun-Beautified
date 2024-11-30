@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/coconut_chicken_curry"
+        "layer0": "item/exotic_garden/food/coconut_chicken_curry"
     },
 	"display": {
 		"thirdperson_righthand": {

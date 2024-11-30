@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "hauntedcorpse",
     "textures": {
-        "layer0": "items/exotic_garden/food/bbq_bacon_wrapped_hot_dog"
+        "layer0": "item/exotic_garden/food/bbq_bacon_wrapped_hot_dog"
     },
 	"display": {
 		"thirdperson_righthand": {

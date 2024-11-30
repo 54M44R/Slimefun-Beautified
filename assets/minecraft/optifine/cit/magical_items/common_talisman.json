@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/magical_items/common_talisman"
+        "layer0": "item/magical_items/common_talisman"
     },
 	"display": {
 		"thirdperson_righthand": {

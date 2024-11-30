@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/android/empowered/fisherman"
+        "layer0": "item/android/empowered/fisherman"
     },
 	"display": {
 		"thirdperson_righthand": {

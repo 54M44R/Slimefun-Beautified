@@ -2,7 +2,7 @@
     "parent": "item/handheld",
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/energy/exp_collector"
+        "layer0": "item/energy/exp_collector"
     },
 	"display": {
 		"thirdperson_righthand": {

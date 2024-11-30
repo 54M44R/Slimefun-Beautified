@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/magical_gadgets/magical_zombie_pills"
+        "layer0": "item/magical_gadgets/magical_zombie_pills"
     },
 	"display": {
 		"thirdperson_righthand": {

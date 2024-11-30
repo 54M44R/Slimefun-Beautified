@@ -2,7 +2,7 @@
     "parent": "item/handheld",	
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/resources/valuables/enriched_nether_ice"
+        "layer0": "item/resources/valuables/enriched_nether_ice"
     },
 	"display": {
 		"thirdperson_righthand": {

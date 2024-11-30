@@ -1,7 +1,7 @@
 {
 	"author": "RaulH22",
     "textures": {
-        "layer0": "items/energy/carbonado_solar_generator"
+        "layer0": "item/energy/carbonado_solar_generator"
     },
 	"elements": [
 		{
