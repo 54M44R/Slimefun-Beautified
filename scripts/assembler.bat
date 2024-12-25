@@ -18,22 +18,24 @@ goto error
 
 :light
 mkdir temp
-xcopy /E "..\" temp
+xcopy /E /i ..\assets temp\assets
 xcopy /E /y light\gui temp\assets\minecraft\optifine\cit\gui
 xcopy /y light\pack.mcmeta temp
+xcopy /y ..\pack.png temp
 if exist "*.zip" (del *.zip)
-7z a -tzip "Slimefun Beautified" ./temp/*
+7z a -tzip "Slimefun Beautified - Light" ./temp/*
 rmdir /s /q temp
 goto start
 
 
 :dark
 mkdir temp
-xcopy /E "..\" temp
+xcopy /E /i ..\assets temp\assets
 xcopy /E /y dark\gui temp\assets\minecraft\optifine\cit\gui
 xcopy /y dark\pack.mcmeta temp
+xcopy /y ..\pack.png temp
 if exist "*.zip" (del *.zip)
-7z a -tzip "Slimefun Beautified" ./temp/*
+7z a -tzip "Slimefun Beautified - Dark" ./temp/*
 rmdir /s /q temp
 goto start
 
